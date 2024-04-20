@@ -13,7 +13,7 @@ terraform {
     region         = "us-east-1"
   }
 
-  required_version = "~> 1.7.4"
+  required_version = "~> 1.8.1"
 }
 
 provider "aws" {
